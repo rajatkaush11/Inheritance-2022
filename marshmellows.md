@@ -1,9 +1,5 @@
 # Inheritance-2022
 
-Culmination of projects under Inheritance '22
-
-![Inheritance Timeline](https://user-images.githubusercontent.com/90565934/215971345-b20103dd-7dc4-45c4-bfb6-7d0ffb682805.png)
-
 <h1 align="center">
   <a href="https://github.com/CommunityOfCoders/Inheritance-2022">
     <img src="https://res.cloudinary.com/dn6vz8exv/image/upload/v1665664791/inh_zzefoy.jpg" alt="CoC Inheritance 2022" width="500" height="166">
